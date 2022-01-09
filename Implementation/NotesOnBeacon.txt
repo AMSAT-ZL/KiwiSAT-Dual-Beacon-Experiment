@@ -1,0 +1,4 @@
+Notes on 70CM Beacon Transmitter:
+The schematic shows a GALI-84+ as the output device.
+This was changed in the build to a GVA-84+.
+The GVA-84+ is optimised for operation at +5 Volt supply line.

@@ -1,0 +1,32 @@
+Elsie last-session circuit file
+Untitled
+14/10/2008 9:04:51 p.m. 
+* Expansion:
+ (Expansion)
+* Family, order, stages, topology, Cauer:
+ 11  2  5  0 
+* Width, center, Fstop normalized:
+ 1.034E-08  0  0 
+* Apass, Astop:
+ 0  0 
+* Rsource, Rload, Rratio, Rstandard:
+ 50  50  0  50 
+* Qind, Qcap:
+ 200  2000 
+* Gj, Hj:
+ 0  0 
+ 0  0 
+* Element type, L, Ltolerance, C, Ctolerance
+ 4  0  0  1.371217E-10  5 
+ 5  2.999999E-08  5  1.157625E-11  5 
+ 4  0  0  5.621225E-10  5 
+ 5  3E-08  0  1.157625E-11  5 
+ 4  0  0  1.243736E-10  5 
+* Lin or log, Fstart, Fstop, Fstep or NrIntervals:
+ 2  1E+08  6E+08  1000 
+* Graph scales:
+-100  0  0  1.034E-08  2.2  120  10  6 
+* Limits Y/N:
+N
+* Markers Y/N:
+N
